@@ -19,5 +19,27 @@ The AWS Command Line Interface is a unified tool that provides a consistent inte
 
 https://docs.aws.amazon.com/cli/latest/
 
+## The script looks like this.
 
 ![Alt text](image-2.png)
+
+
+## Output looks like this
+
+![Alt text](image-4.png)
+
+![Alt text](image-5.png)
+
+![Alt text](image-6.png)
+
+![Alt text](image-7.png)
+
+![Alt text](image-8.png)
+
+
+## You can also redirect the output to a separate file/folder
+
+![Alt text](image-9.png)
+
+![Alt text](image-10.png)
+
